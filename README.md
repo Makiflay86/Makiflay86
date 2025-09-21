@@ -1,7 +1,15 @@
 <div align="center"> 
   <p>Contador de visitantes</p>
-  <img src="https://profile-counter.glitch.me/{Makiflay86}/count.svg" alt="Contador de visitantes" />
+  <img src="https://profile-counter.glitch.me/makiflay86/count.svg" alt="Contador de visitantes" />
 </div>
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=makiflay86" alt="Trophies" />
+
+<img src="https://komarev.com/ghpvc/?username=makiflay86&color=green" alt="Views" />
+
+
+
 
 
 
