@@ -1,6 +1,6 @@
 
 <div align="center"> 
-  <h2>Contador de visitantes</h2>
+  <h2>Contador de Visitantes 📊</h2>
   <img src="https://komarev.com/ghpvc/?username=makiflay86&color=green&label=Profile%20views" alt="Contador de visitantes" width="200" />
 </div>
 <br><br>
