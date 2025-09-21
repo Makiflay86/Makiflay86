@@ -20,7 +20,7 @@
 
 ## Sobre Mí 🌟
 Soy un desarrollador apasionado por crear aplicaciones web dinámicas y modernas. 🚀  
-- 🌱 Actualmente aprendiendo **Desarrollo de Aplicaciones Web** (HTML, CSS) 📚  
+- 🌱 Actualmente aprendiendo **Desarrollo de Aplicaciones Web** (HTML, CSS, JAVA, BOOTSTRAP, PHP, PYTHON) 📚  
 - 💬 ¡Pregúntame sobre diseño web, frontend o cualquier cosa! <a href="https://github.com/makiflay86/makiflay86/issues" target="_blank">Aquí</a> 💡 
 <br>
 <hr>
