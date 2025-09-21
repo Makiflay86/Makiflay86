@@ -17,68 +17,50 @@
 <br>
 
 
-### Un desarrollador apasionado por crear aplicaciones web dinámicas y modernas.
 
-- 🌱 Actualmente aprendiendo **Desarrollo de Aplicaciones Web** (HTML, CSS, JavaScript, React)
-- 💬 Pregúntame sobre **web design, frontend... o cualquier cosa [aquí](https://github.com/makiflay86/makiflay86/issues)**
-
+## Sobre Mí 🌟
+Soy un desarrollador apasionado por crear aplicaciones web dinámicas y modernas. 🚀  
+- 🌱 Actualmente aprendiendo **Desarrollo de Aplicaciones Web** (HTML, CSS) 📚  
+- 💬 ¡Pregúntame sobre diseño web, frontend o cualquier cosa! [Aquí](https://github.com/makiflay86/makiflay86/issues) 💡  
 <br>
-
 <hr>
 
 
 
-
-
-
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
-
-
-
-- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
-
+## Contacto 📧
 <br>
-
 <div align="center">
-  <a href="franciscoaybarromero@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:franciscoaybarromero@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Correo de Francisco" />
   </a>
   <a href="https://www.linkedin.com/in/francisco-aybar-romero-b206ba375/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-
 <hr>
 
 
 
-## 🛠️ Languages and Tools
-
+## 🛠️ Lenguajes y Herramientas 💻
 <br>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
-
 <hr>
 
 
 
-## ⚡️ Stats
-
+## ⚡️ Estadísticas 📈
 <br>
-
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=makiflay86&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Makiflay86 GitHub Stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=makiflay86&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Makiflay86" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=makiflay86&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Makiflay86 Most Used Languages" />
 </div>
-
 <hr>
 
-### METAS
+## 🎯 Metas y Logros 🏆
 
 <div align=center>
   <img src="https://github-profile-trophy.vercel.app/?username=makiflay86" alt="Trophies" />
