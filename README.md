@@ -1,28 +1,30 @@
+
 <div align="center"> 
   <p>Contador de visitantes</p>
-  <img src="https://komarev.com/ghpvc/?username=makiflay86&color=green&label=Profile%20views" alt="Contador de visitantes" />
+  <img src="https://komarev.com/ghpvc/?username=makiflay86&color=green&label=Profile%20views" alt="Contador de visitantes" width="200" />
 </div>
 
 <hr>
 
-### METAS
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=HOLA!+👋;+Soy+Francisco+Aybar!;" />
+</h1>
 
-<img src="https://github-profile-trophy.vercel.app/?username=makiflay86" alt="Trophies" />
+
+
+### Un desarrollador apasionado por crear aplicaciones web dinámicas y modernas.
+
+- 🌱 Actualmente aprendiendo **Desarrollo de Aplicaciones Web** (HTML, CSS, JavaScript, React)
+- 💬 Pregúntame sobre **web design, frontend... o cualquier cosa [aquí](https://github.com/makiflay86/makiflay86/issues)**
+
+<br>
 
 <hr>
-
-
-
-
-
 
 <img src="https://github.com/{USERNAME}/{USERNAME}/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
 
 
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=HOLA!+👋;+Soy+Francisco+Aybar!;" />
-</h1>
 
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
 
@@ -76,3 +78,10 @@
 </div>
 
 <hr>
+
+### METAS
+
+<img src="https://github-profile-trophy.vercel.app/?username=makiflay86" alt="Trophies" />
+
+<hr>
+
