@@ -80,7 +80,9 @@
 
 ### METAS
 
-<img src="https://github-profile-trophy.vercel.app/?username=makiflay86" alt="Trophies" />
+<div align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=makiflay86" alt="Trophies" />
+</div>
 
 <hr>
 
