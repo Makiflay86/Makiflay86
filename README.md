@@ -11,10 +11,16 @@
 <br><br><br>
 <hr>
 
+
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=HOLA!+👋;+Soy+Francisco+Aybar!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=60&center=true&vCenter=true&width=600&height=90&color=FFA500&duration=4000&lines=HOLA!+👋;Soy+Francisco+Aybar!;&pause=1000" />
 </h1>
 <br>
+
+
+
+
 
 
 
@@ -60,11 +66,18 @@ Soy un desarrollador apasionado por crear aplicaciones web dinámicas y modernas
 </div>
 <hr>
 
+
+
 ## 🎯 Metas y Logros 🏆
-
-<div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=makiflay86" alt="Trophies" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=makiflay86&theme=gruvbox&no-frame=true&no-bg=true" alt="Trophies" />
 </div>
+<br>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Trofeos-0-gold?style=for-the-badge&logo=trophy" alt="Trofeos" />
+  <p>¡Pronto más logros! 🏆</p>
+</div>
 <hr>
+
 
