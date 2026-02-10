@@ -50,7 +50,7 @@ Soy un desarrollador apasionado por crear aplicaciones web dinámicas y modernas
 ## 🛠️ Lenguajes y Herramientas 💻
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,python,js,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=java,php,python,django,js,typescript,html,css,bootstrap,aws,laravel,sass,vue,docker,jquery,notion,blender,vscode,windows,linux,svg,npm,git,github" />
 </p>
 <hr>
 
