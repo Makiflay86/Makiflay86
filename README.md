@@ -45,7 +45,7 @@ Soy un desarrollador apasionado por crear aplicaciones web dinámicas y modernas
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="tel:+34658713069">
-    <img src="https://img.shields.io/badge/Teléfono-25D366?style=for-the-badge&logo=phone&logoColor=white" />
+    <img src="https://img.shields.io/badge/+34 658 71 30 69-25D366?style=for-the-badge&logo=phone&logoColor=white" />
   </a>
 </div>
 <hr>
